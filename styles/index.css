@@ -1,0 +1,45 @@
+.logo {
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    /* 160% */
+    letter-spacing: -0.6px;
+    color: #0A1B32;
+    margin: 37px;
+    margin: left 80px;
+    ;
+}
+
+.logo-dot {
+    color: #A3DC00;
+}
+
+.main-title {
+    max-width: 495px;
+    width: 100%;
+    font-family: Ramaraja;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 76px;
+    /* 105.556% */
+    letter-spacing: 1.44px;
+    color: #1B0A42;
+}
+
+.main-info {
+    color: #9A9A9A;
+    max-width: 582.71px;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+    letter-spacing: 0.4px;
+}
